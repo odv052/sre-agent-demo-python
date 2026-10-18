@@ -1,0 +1,92 @@
+2026-10-22 09:46:52 INFO Loaded number #1: 12
+2026-10-22 09:46:52 INFO Loaded number #1: 90
+2026-10-22 09:46:52 INFO Loaded number #1: 81
+2026-10-22 09:46:52 INFO Loaded number #1: 64
+2026-10-22 09:46:52 INFO Loaded number #1: 50
+2026-10-22 09:46:52 INFO Loaded number #1: 64
+2026-10-22 09:46:52 INFO Loaded number #1: 100
+2026-10-22 09:46:52 INFO Loaded number #1: 72
+2026-10-22 09:46:52 INFO Loaded number #1: 40
+2026-10-22 09:46:52 INFO Loaded number #1: 16
+2026-10-22 09:46:52 INFO Loaded number #1: 12
+2026-10-22 09:46:52 INFO Loaded number #1: 45
+2026-10-22 09:46:52 INFO Loaded number #1: 90
+2026-10-22 09:46:52 INFO Loaded number #1: 7
+2026-10-22 09:46:52 INFO Loaded number #1: 40
+2026-10-22 09:46:52 INFO Loaded number #1: 50
+2026-10-22 09:46:52 INFO Loaded number #1: 81
+2026-10-22 09:46:52 INFO Loaded number #1: 30
+2026-10-22 09:46:52 INFO Loaded number #1: 100
+2026-10-22 09:46:52 INFO Loaded number #1: 72
+2026-10-22 09:46:52 INFO Loaded number #2: 4
+2026-10-22 09:46:52 INFO Loaded number #2: 3
+2026-10-22 09:46:52 INFO Loaded number #3: 4
+2026-10-22 09:46:52 INFO Loaded number #2: 5
+2026-10-22 09:46:52 INFO Loaded number #2: 5
+2026-10-22 09:46:52 INFO Loaded number #2: 5
+2026-10-22 09:46:52 INFO Loaded number #3: 2
+2026-10-22 09:46:52 INFO Loaded number #3: 0
+2026-10-22 09:46:52 INFO Loaded number #2: 2
+2026-10-22 09:46:52 INFO Loaded number #2: 4
+2026-10-22 09:46:52 INFO Loaded number #2: 0
+2026-10-22 09:46:52 INFO Loaded number #2: 4
+2026-10-22 09:46:52 INFO Looking up label for 3
+2026-10-22 09:46:52 ERROR Chain divide failed: division by zero
+2026-10-22 09:46:52 INFO Looking up label for 5
+2026-10-22 09:46:52 INFO Loaded number #2: 3
+2026-10-22 09:46:52 INFO Loaded number #2: 9
+2026-10-22 09:46:52 INFO Loaded number #2: 3
+2026-10-22 09:46:52 INFO Loaded number #2: 3
+2026-10-22 09:46:52 INFO Looking up label for 10
+2026-10-22 09:46:52 INFO Loaded number #3: 5
+2026-10-22 09:46:52 INFO Looking up label for 6
+2026-10-22 09:46:52 INFO Looking up label for 9
+2026-10-22 09:46:52 INFO Loaded number #2: 3
+2026-10-22 09:46:52 INFO Loaded number #2: 3
+2026-10-22 09:46:52 INFO Loaded number #2: 4
+2026-10-22 09:46:52 INFO Loaded number #2: 2
+2026-10-22 09:46:52 INFO Loaded number #2: 5
+2026-10-22 09:46:52 INFO Loaded number #2: 9
+2026-10-22 09:46:52 INFO Loaded number #3: 2
+2026-10-22 09:46:52 INFO Loaded number #3: 0
+2026-10-22 09:46:52 INFO Label: MEDIUM
+2026-10-22 09:46:52 INFO Loaded number #3: 5
+2026-10-22 09:46:52 ERROR Chain divide failed: 'NoneType' object has no attribute 'upper'
+2026-10-22 09:46:52 INFO Loaded number #3: 0
+2026-10-22 09:46:52 INFO Loaded number #2: 0
+2026-10-22 09:46:52 INFO Loaded number #3: 2
+2026-10-22 09:46:52 INFO Loaded number #4: 2
+2026-10-22 09:46:52 INFO Loaded number #3: 3
+2026-10-22 09:46:52 INFO Loaded number #3: 3
+2026-10-22 09:46:52 INFO Looking up label for 9
+2026-10-22 09:46:52 INFO Looking up label for 4
+2026-10-22 09:46:52 ERROR Chain divide failed: division by zero
+2026-10-22 09:46:52 INFO Looking up label for 6
+2026-10-22 09:46:52 INFO Label: ENORMOUS
+2026-10-22 09:46:52 INFO Label: HUGE
+2026-10-22 09:46:52 ERROR Chain divide failed: 'NoneType' object has no attribute 'upper'
+2026-10-22 09:46:52 INFO Label: LARGE
+2026-10-22 09:46:52 INFO Loaded number #3: 4
+2026-10-22 09:46:52 INFO Loaded number #4: 2
+2026-10-22 09:46:52 INFO Loaded number #3: 2
+2026-10-22 09:46:52 ERROR Chain divide failed: 'NoneType' object has no attribute 'upper'
+2026-10-22 09:46:52 ERROR Chain divide failed: division by zero
+2026-10-22 09:46:52 ERROR Chain divide failed: division by zero
+2026-10-22 09:46:52 INFO Loaded number #3: 2
+2026-10-22 09:46:52 INFO Looking up label for 5
+2026-10-22 09:46:52 INFO Looking up label for 6
+2026-10-22 09:46:52 ERROR Chain divide failed: division by zero
+2026-10-22 09:46:52 INFO Looking up label for 6
+2026-10-22 09:46:52 ERROR Chain divide failed: 'NoneType' object has no attribute 'upper'
+2026-10-22 09:46:52 INFO Loaded number #4: 2
+2026-10-22 09:46:52 ERROR Chain divide failed: 'NoneType' object has no attribute 'upper'
+2026-10-22 09:46:52 INFO Looking up label for 2
+2026-10-22 09:46:52 INFO Label: SMALL
+2026-10-22 09:46:52 INFO Looking up label for 4
+2026-10-22 09:46:52 INFO Looking up label for 2
+2026-10-22 09:46:52 INFO Looking up label for 2
+2026-10-22 09:46:52 INFO Label: HUGE
+2026-10-22 09:46:52 INFO Label: SMALL
+2026-10-22 09:46:52 ERROR Chain divide failed: 'NoneType' object has no attribute 'upper'
+2026-10-22 09:46:52 INFO Label: LARGE
+2026-10-22 09:46:52 INFO Label: SMALL

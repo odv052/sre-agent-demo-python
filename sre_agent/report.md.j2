@@ -1,0 +1,40 @@
+# {{ report.title }}
+
+| | |
+|---|---|
+| **Log file** | `{{ log_file }}` |
+| **Exception** | `{{ inc.exc_type }}: {{ inc.exc_message }}` |
+| **Location** | `{{ inc.location }}` |
+| **Occurrences** | {{ inc.records | length }} (first {{ inc.records[0].ts }}, last {{ inc.records[-1].ts }}) |
+| **Category / Severity** | {{ triage.category }} / **{{ triage.severity }}** |
+| **Owner** | {{ owner }} |
+| **Confidence** | {{ report.confidence }} |
+| **Model** | `{{ model }}` |
+| **Analysis time** | {{ '%.1f' | format(duration) }}s |
+
+**Summary.** {{ report.summary }}
+
+## Root cause hypothesis
+{{ report.root_cause_hypothesis }}
+
+## Evidence
+{% for item in report.evidence %}
+- {{ item }}
+{% endfor %}
+
+## Suggested fix
+{{ report.suggested_fix }}
+
+## Next steps
+{% for next_step in report.next_steps %}
+- [ ] {{ next_step }}
+{% endfor %}
+
+<details><summary>Investigator notes (raw agent output)</summary>
+
+{{ findings }}
+
+</details>
+
+---
+<sub>Triage: {{ triage.reasoning }}</sub>

@@ -1,0 +1,26 @@
+# Input of demo/chain_divide/chain_divide.py. Hidden from the agent (like a production config):
+# it has to find out from the logs which data broke which run.
+
+# Number sets: each run takes one set (round-robin) and divides the numbers one by another (integer division)
+[sets]
+set-1 = [12, 3, 2]
+set-2 = [100, 5, 0, 2]
+set-3 = [64, 4, 4]
+set-4 = [90, 3, 5]
+set-5 = [81, 9]
+set-6 = [40, 0]
+set-7 = [50, 5, 2]
+set-8 = [72, 4, 3]
+set-9 = [30, 3]
+set-10 = [16, 2, 2, 2]
+set-11 = [7, 2]
+set-12 = [45, 3, 0]
+
+# Labels: the result of the division is the key
+[labels]
+1 = "tiny"
+2 = "small"
+3 = "medium"
+4 = "large"
+5 = "huge"
+10 = "enormous"
